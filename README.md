@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/TomLi0421/fylo-dark-theme-landing-page](https://github.com/TomLi0421/fylo-dark-theme-landing-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://tomli0421.github.io/fylo-dark-theme-landing-page](https://tomli0421.github.io/fylo-dark-theme-landing-page)
 
 ## My process
 
