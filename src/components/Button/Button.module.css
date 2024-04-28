@@ -1,0 +1,9 @@
+.button_styles {
+  color: var(--white);
+  background: linear-gradient(90deg, var(--cyan), var(--blue));
+}
+
+button:hover {
+  cursor: pointer;
+  background: var(--cyan);
+}

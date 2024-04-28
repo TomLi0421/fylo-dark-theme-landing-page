@@ -1,0 +1,25 @@
+footer {
+  background: var(--footer-bg-dark-blue);
+}
+
+.footer__contact_color {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  color: rgba(255, 255, 255, 0.838);
+}
+
+.footer__contact_color:hover {
+  color: var(--white);
+}
+
+.footer__socials_icons {
+  color: var(--white);
+}
+
+.footer__socials_icons:hover {
+  color: var(--cyan);
+  border: 1px solid var(--cyan);
+}

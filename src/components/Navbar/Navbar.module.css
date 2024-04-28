@@ -1,0 +1,11 @@
+nav {
+  background-color: var(--intro-bg-dark-blue);
+}
+
+.navbar__items {
+  color: #ffffffd6;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
